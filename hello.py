@@ -1,2 +1,2 @@
-print("hello makelab")
+print("hello world")
 print("tschüss")
